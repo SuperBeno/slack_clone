@@ -17,6 +17,7 @@
 .header__left > .MuiSvgIcon-root {
   margin-left: auto;
   margin-right: 30px;
+  padding: 15px 0;
 }
 
 .header__search {
